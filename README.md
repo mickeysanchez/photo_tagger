@@ -1,3 +1,1 @@
-# Starter for PhotoTagger
-
-This is a rails app to get you started on PhotoTagger.
+An app where you can tag photos a la Facebook.
